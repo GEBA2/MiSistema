@@ -1,0 +1,12 @@
+clave:1234
+usuario: alex
+
+datos del votante:
+-Apellidos:Rodriguez Hernandez
+-Nombres : Emerson Alexander
+-Dui :05204089-4
+-Municipio : Zacatecoluca
+-Depto : La Paz
+
+url TSE localhost/1PROYECTOCHAVA/inicioApertura.php
+url votante localhost/1PROYECTOCHAVA/otraformadevotar.php
